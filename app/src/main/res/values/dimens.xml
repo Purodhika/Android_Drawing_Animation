@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <dimen name="heading6">6pt</dimen>
+        <dimen name="heading8">8pt</dimen>
+        <dimen name="heading10">10pt</dimen>
+        <dimen name="heading12">12pt</dimen>
+        <dimen name="heading14">14pt</dimen>
+        <dimen name="heading18">18pt</dimen>
+        <dimen name="heading24">24pt</dimen>
+    </resources>

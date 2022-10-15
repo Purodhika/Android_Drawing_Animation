@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PurodhikaSharma_COMP304Sec002_Lab3</string>
+    <string name="select_line_thickness">Select Line Thickness</string>
+    <string name="line_color_selection">Line Color Selection</string>
+    <string name="arrow_keys">Arrow Keys</string>
+    <string name="select_an_exercise_to_test">Select an exercise to test</string>
+
+    <string-array name="taskSetup">
+        <item>Exercise 1</item>
+        <item>Exercise 2</item>
+
+    </string-array>
+
+    <string-array name="lineThickness">
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+
+</resources>
